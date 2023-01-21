@@ -14,18 +14,18 @@ body{
     padding: 150px
 }
 
-.card-container{
-    background-image: linear-gradient( #ff6e7f,#bfe9ff);
-    border-style: none;
-    border-radius: 15px;
-    height:100vh;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: center;
-    width: 30vw;
-    height: 40vh;
-    padding:25px;
+.card-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  border-style: none;
+  border-radius: 15px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 30vw;
+  height: 40vh;
+  justify-content: center;
 }
 
 .heading{
